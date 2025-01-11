@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    border-style: outset;
+    background-color: black;
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    font-weight: 50px;
+    
+}
+
+.iphone16{
+    padding-top: 50px;
+}
