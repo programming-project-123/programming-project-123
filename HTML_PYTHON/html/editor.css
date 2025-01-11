@@ -1,0 +1,22 @@
+ol{
+    list-style-type: 1;
+}
+
+ol{
+    margin-left: 30px;
+}
+ol li{
+    background-color: aqua;
+    margin-bottom:  10px;
+    margin-top: 10px;
+    width: 40%;
+    padding: 20px;
+    border-radius: 5px
+}
+a{  
+    margin: 50px;
+    text-align: center;
+    text-decoration: solid;
+    border-radius: 5px;
+    
+}   

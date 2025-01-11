@@ -1,0 +1,35 @@
+
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+.product{
+    position: relative;
+}
+
+.selling{
+    position: absolute;
+    bottom: 25px;
+    left: 90px;
+    font-family:"Sixtyfour Convergence", serif;
+    font-size: 15px;
+    border-style: outset;
+    background-color: pink;
+    border-radius: 50px;
+}
+
+.description{
+    border-style: outset;
+    padding-left: 100px;
+}
+
+
+
+i{
+    position: absolute;
+    top: 5px;
+
+}
+.selling a:hover{
+    background-color: red;
+}

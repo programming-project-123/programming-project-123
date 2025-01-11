@@ -1,0 +1,29 @@
+.vanquyet{
+    color:firebrick;
+    text-align: center;
+}
+
+.fifa{
+    color: yellowgreen;
+    font-size: 20px;
+    font-weight: 200;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#private{
+    color: red;
+    
+    font-family:Edu Australia VIC WA NT Hand Guides ;
+    font-weight: 900;
+}
+
+.quangnam{
+    width: 800px;
+    height: 400px;
+    background-color: rgb(127, 255, 212);
+    background-image: url('https://tse1.mm.bing.net/th?id=OIP.0RvLP0QKCBGcYYKLErP03gHaFj&pid=Api&P=0&h=180');
+    background-repeat: no-repeat;
+    background-size: cover
+    
+}

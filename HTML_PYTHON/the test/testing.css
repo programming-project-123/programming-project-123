@@ -1,0 +1,17 @@
+.main{
+    border-style: outset;
+}
+.content{
+    text-align: center;
+}
+.normaltext{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: 1000;
+}
+.picture{
+    padding-bottom: 1500px;
+}
+.link{
+    margin-bottom: 500px;
+}
